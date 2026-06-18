@@ -16,6 +16,6 @@ I contribute to my local tech community by running three organizations:
 - Coming to terms with the above.
 - Farming, Gardening, Botany... Like, actually though.
 
-I'm cultivating Amorpha Fruticosa, a nectar rich bush native to New Mexico that serves as a host plant for at least 6 local butterflies and moths, in an effort to improve the local environment through horticulture. I chose to cultivate this bush to oppose the well-marketed and invasive 'butterfly bush', which is not native to the United States, consumes exponentially more water, doesn't serve as a host plant for any North American pollinators, and has nectar which serves a nutritional equivalent of providing fentanyl to all the pollinators in a 2-mile radius. 
+I'm cultivating Amorpha Fruticosa, a nectar rich bush native to most of the United States that serves as a host plant for at least 6 Lepitoptera (butterflies and moths,) in an effort to improve the local environment through horticulture. I chose to cultivate this bush to oppose the well-marketed and invasive 'butterfly bush,' which is not native to the United States, consumes exponentially more water, doesn't serve as a host plant for any North American pollinators, and has nectar which serves a nutritional equivalent of providing fentanyl to all the pollinators in a 2-mile radius. 
 
 Aside from being disillusioned with AI, I enjoy technology passionately, and I care about my local community. I do what I can to help others, create opportunities for growth, and promote the pursuit of happiness.
