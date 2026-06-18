@@ -1,4 +1,21 @@
-## Hi there 👋
+## I'm Timothy Beck
+
+I'm a passionate Chief of AI-Deliberation and Paradigm Shifts at Capital Corporation, building human-in-the-loop synergy at the bleeding edge of AGI and 40% keyboards (smaller form factor, bigger productivity). My favorite project is my hacking-github-demo, a thought-leadership deep-dive into committing code in the past, future, and as other people; pure innovation theater, zero blockers, maximum product delivery. It's KPI's all the way down and I achieve every one of them. My goal moving forward is to disrupt my own career before AI can afford to do it for me.
+
+### Community involvement
+
+I contribute to my local tech community by running three organizations:
+
+- Albuquerque Software Social Club: A group place where developers collaborate and network over food and drinks.
+- Google Developer Group: A group that is organized around curated presentations providing opportunity by promoting professional growth, learning, and networking.
+- Albuquerque Lowtechs Anonymous: A group for creatives, hackers, and cyber-security experts to meet and discuss their recent projects and exploits.
+
+### What I'm working on
+
+- Replacing my agency agentically.
+- Coming to terms with the above.
+- Farming
+
 
 <!--
 **BeckTimothy/BeckTimothy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
